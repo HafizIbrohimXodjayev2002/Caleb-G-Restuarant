@@ -88,7 +88,9 @@
 #### smooth_page_indicator: ^1.0.0+2
 
 
+<br>
 
+#### Dasturni yuklab olish: https://github.com/HafizIbrohimXodjayev2002/Caleb-G-Restuarant/blob/main/app-armeabi-v7a-release.apk
 
 
 
