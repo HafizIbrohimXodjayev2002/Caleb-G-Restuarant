@@ -63,7 +63,7 @@
 
 <br>
 
-#### Only with admin panel you should control status orders:
+#### Only with admin panel you could control status orders:
 <a href="https://ibb.co/99PsPLk"><img src="https://i.ibb.co/yn2W21c/swipe-Order-True.jpg" alt="swipe-Order-True" border="0" width="250"></a>
 
 
