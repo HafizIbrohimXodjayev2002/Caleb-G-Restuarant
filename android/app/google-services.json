@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "591553669452",
+    "project_id": "calebrestuarant",
+    "storage_bucket": "calebrestuarant.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:591553669452:android:580abdccd1610d51bdc7e9",
+        "android_client_info": {
+          "package_name": "com.example.calebresturant"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "591553669452-e3ol971jm0d36mvn9egn7k7j5fspv6pu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.calebresturant",
+            "certificate_hash": "e545953b38c7251e78093e9aa2e039897733b527"
+          }
+        },
+        {
+          "client_id": "591553669452-tkr5uirq5ah1ije53992mffsoehn0jlu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBwwgL_71H3-hpl17guNE4Ob0uq2Lz73LQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "591553669452-tkr5uirq5ah1ije53992mffsoehn0jlu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
