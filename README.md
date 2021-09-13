@@ -90,7 +90,7 @@
 
 <br>
 
-#### Download app: https://github.com/HafizIbrohimXodjayev2002/Caleb-G-Restuarant/blob/main/app-armeabi-v7a-release.apk
+#### Download app: 
 
 
 
